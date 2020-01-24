@@ -1,4 +1,4 @@
-# saifnalband-Coding_Exercise
+# Coding_Exercise
 This is part of coding exerise. 
 
 The problem statement involes in fitting data using Linear Regression.
